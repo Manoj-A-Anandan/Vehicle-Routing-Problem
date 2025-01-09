@@ -26,3 +26,9 @@ This repository implements a solution to the Vehicle Routing Problem (VRP) using
    ```bash
    git clone https://github.com/yourusername/vehicle-routing-problem.git
    cd vehicle-routing-problem
+   Install required libraries:
+   ```bash
+   pip install matplotlib deap
+   Run the Jupyter Notebook:
+   ``` bash
+   jupyter notebook Vehicle_Routing_Problem.ipynb
